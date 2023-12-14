@@ -1,0 +1,26 @@
+Body {
+    margin: 0; 
+}
+aside {
+    width: 25%;
+    padding-left: 10px;
+    margin-left: 0px;
+    float: right;
+    font-style: italic;
+   
+
+}
+.logo {
+    float: left;
+    width: 8%;
+}
+.navbar {
+    position: absolute;
+    align-self: right;
+    width: 50%;
+    
+}
+.cabecalho {
+    display: inline;
+    justify-content: space-between;
+}
